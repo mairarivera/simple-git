@@ -1,1 +1,1 @@
-This is sample text
+This new content was added at the same time we created the .gitignore file 
